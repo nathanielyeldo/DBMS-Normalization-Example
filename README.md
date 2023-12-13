@@ -3,7 +3,7 @@
 ![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/7f1f93c4-b4b6-4196-b731-498876085880)
 ![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/1f141db0-0372-4f09-a376-7d4291412567)
 ![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/3b516502-d5d0-4561-ac7a-0d5253969297)
-![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/b1e997c6-cca4-4c58-835b-6cdabeb7ed96)
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/8ab49962-5289-4dea-a945-13abf76c27ff)
 ![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/84149300-7751-4400-bf58-68b6538ca395)
 ![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/f6c46767-d263-4b52-b8fc-b31ba5ab0262)
 ![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/2d2532f6-f3c3-46fe-97b5-4337a1e59984)
