@@ -1,1 +1,12 @@
 # DBMS-Normalization-Example
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/22e976f8-da93-4149-b151-b8e764a90a61)
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/7f1f93c4-b4b6-4196-b731-498876085880)
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/1f141db0-0372-4f09-a376-7d4291412567)
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/3b516502-d5d0-4561-ac7a-0d5253969297)
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/94f99755-8647-473e-ac03-73fbc5daa9ce)
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/84149300-7751-4400-bf58-68b6538ca395)
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/f6c46767-d263-4b52-b8fc-b31ba5ab0262)
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/2d2532f6-f3c3-46fe-97b5-4337a1e59984)
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/02fd8b91-af40-4aab-94c9-400dda329275)
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/6f980165-33e5-4ab1-9811-28ad8f6c24bb)
+![image](https://github.com/nathanielyeldo/DBMS-Normalization-Example/assets/56597570/def321d0-5edd-4361-8c98-fb1eae2634b9)
